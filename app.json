@@ -7,7 +7,7 @@
     "sharing"
   ],
   "repository": "https://github.com/ScriptHelper/Share-Files",
-  "logo": "https://github.com/ScriptHelper/Share-Files/blob/main/images/Share-Files.png",
+  "logo": "https://telegra.ph/file/717e8894a158deda3a0cc.png",
   "env": {
     "TG_BOT_TOKEN": {
       "description": "Your Bot token, Get it from @Botfather",
